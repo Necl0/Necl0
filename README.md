@@ -15,9 +15,13 @@ HTML/CSS: For frontend web development, obviously
 Frameworks/Libraries: FastAPI, TailwindCSS, pydantic, dataclasses, numpy
 
 
+
+
 Future goals: Master the art of API creation, learn more about Pydantic, AI/ML
 
 Other hobbies: Mathematics (Calculus), Piano, Cello, Tennis
+
+
 
 
 Recent project: MerolAPI (300 Tang Poems compiled)
