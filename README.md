@@ -1,16 +1,16 @@
-### Hi there, I'm Amdirpherian (New online name Necloremius), a 14 year old aspiring software engineer! 👋
+### WASSUPPP, I'm Amdirpherian (he/him), a 14 year old aspiring software engineer! 👋
 
 Languages: Python, Rust, JS, C++, Java, HTML/CSS, Solidity
 
-Currently learning: Rust
+Hardcore Rustacean, backend, and blockchain enthusiast.
+
+Contact me on Discord @Necloremius#5056
 
 
 
 
 
 
-Recent project: Rust number guessing game, MerolAPI (300 Tang Poems compiled)
-Current project: TBD
 
 <!--
 **Amdirpherian/Amdirpherian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
