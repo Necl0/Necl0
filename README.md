@@ -4,9 +4,9 @@ Languages: Python, Rust, JS, C++, Java, HTML/CSS, Solidity
 
 Hardcore Rustacean, backend, and blockchain enthusiast.
 
-Currently learning Rocket, one of Rust's backend frameworks
+Current project: Creating a P2P file storage/sharing service with @anddddrew - pinned (its lit!)
 
-###Current project: Creating a P2P file storage/sharing service with @anddddrew - pinned (its lit!)###
+Favorite framework: Rocket - a Rust backend framework (its amazing!)
 
 Contact me on Discord @Necloremius#5056
 
