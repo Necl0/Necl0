@@ -3,7 +3,8 @@
 
 Proficient/comfortable languages: Python, Rust, JS
 
-Hardcore Rustacean and backend enthusiast
+----
+I love programming, tinkering with code, and pondering calculus problems
 
 
 
