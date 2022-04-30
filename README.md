@@ -1,4 +1,4 @@
-### WASSUPPP, I'm Amdirpherian (he/him), a 14 year old aspiring software engineer! 👋
+### Hey, I'm Josiah (he/him), a 14 year old software developer! 👋
 
 
 Proficient/comfortable languages: Python, Rust, JS
