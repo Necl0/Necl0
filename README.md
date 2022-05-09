@@ -4,7 +4,7 @@
 Proficient/comfortable languages: Python, Rust, JS
 
 ----
-I love programming, tinkering with code, pondering calculus problems, and drinking bubble tea!
+I love programming, playing tennis, pondering calculus problems, listening to music, and drinking bubble tea!
 
 
 
