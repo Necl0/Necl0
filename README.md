@@ -1,4 +1,4 @@
-### Hey, I'm Josiah (he/him), a 14 year old software developer! 👋
+### Hey, I'm Necloremius (he/him), a 14 year old software developer! 👋
 
 
 Proficient/comfortable languages: Python, Rust, JS
