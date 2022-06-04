@@ -2,6 +2,7 @@
 
 
 Proficient/comfortable languages: Python, Rust, JS
+Currently learning: Elixir
 
 ----
 I love programming, playing tennis, pondering calculus problems, listening to music, and drinking bubble tea!
