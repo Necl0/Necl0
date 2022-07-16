@@ -1,14 +1,14 @@
 ### Hey, I'm Necloremius (he/him), a 14 year old software developer! 👋
 
-I'm quite proficient at Python and am exploring the vast world of ML/AI right now :)
+➵ I'm quite proficient at Python and am exploring the vast world of ML/AI right now :)
 
-If you want to connect with me, message me on Discord @Necloremius#5056
+➵ If you want to connect with me, message me on Discord @Necloremius#5056
 
-Currently reading: Atomic Habits by James Clear
+➵ Currently reading: Atomic Habits by James Clear
 
-Favorite note taking and journal app: Notion
+➵ Favorite note taking and journal app: Notion
 
-Finally, I'm beginning to write Medium articles, so go check those out @https://neclo.medium.com/, and feel free to subscribe to me for email updates!
+➵ Finally, I'm beginning to write Medium articles, so go check those out @https://neclo.medium.com/, and feel free to subscribe to me for email updates!
 
 
 
