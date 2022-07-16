@@ -4,11 +4,9 @@
 
 ➵ If you want to contact me, message me on Discord @Necloremius#5056
 
-➵ Currently reading: Atomic Habits by James Clear
 
-➵ Favorite note taking and journal app: Notion
 
-➵ Finally, I'm beginning to write Medium articles, so go check those out @https://neclo.medium.com/, and feel free to subscribe to me!
+➵ I'm beginning to write Medium articles, so go check those out @https://neclo.medium.com/, and feel free to subscribe to me!
 
 
 
