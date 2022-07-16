@@ -1,10 +1,14 @@
 ### Hey, I'm Necloremius (he/him), a 14 year old software developer! 👋
 
 
-I'm quite proficient at Python and am exploring the vast world of ML/AI right now, and know various other languages, though not as proficiently.
+I'm quite proficient at Python and am exploring the vast world of ML/AI right now :)
 
-----
-I love programming, playing tennis, pondering calculus problems, listening to music, and drinking bubble tea!
+
+If you want to connect with me, message me on Discord @Necloremius#5056
+
+
+P.S. I love Bubble Tea :p
+
 
 
 
