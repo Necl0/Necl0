@@ -7,7 +7,9 @@ I'm quite proficient at Python and am exploring the vast world of ML/AI right no
 If you want to connect with me, message me on Discord @Necloremius#5056
 
 
-P.S. I love Bubble Tea :p
+Finally, I'm beginning to write Medium articles, so go check those out @https://neclo.medium.com/, and feel free to subscribe to me for email updates!
+
+
 
 
 
