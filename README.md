@@ -1,7 +1,6 @@
 ### Hey, I'm Necloremius (he/him), a 14 year old software developer! 👋
 
-➵ I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) (Done stuff w/ Rust, Elixir, Java, C++, and JS but not enough to call myself proficient by any standards)
-
+➵ I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) 
 
 ➵ I'm taking a deep dive into the world of Linear Algebra and Multivariable calculus - it's been a wonderful odyssey so far!
 
