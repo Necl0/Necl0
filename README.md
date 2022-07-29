@@ -2,6 +2,10 @@
 
 ➵ I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) (Done stuff w/ Rust, Elixir, Java, C++, and JS but not enough to call myself proficient by any standards)
 
+
+➵ I'm taking a deep dive into the world of Linear Algebra and Multivariable calculus - it's been a wonderful odyssey so far!
+
+
 ➵ If you want to contact me, message me on Discord @Necloremius#5056
 
 
