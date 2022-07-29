@@ -2,7 +2,7 @@
 
 📖 I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) 
 
-👀 I'm exploring the vast and breathtaking world of Linear Algebra and Multivariable calculus - it's been a wonderful odyssey so far!
+ I'm exploring the vast and breathtaking world of Linear Algebra and Multivariable calculus - it's like a tree with endless branches creating beauty!
 
 
 📫 If you want to contact me, message me on Discord @Necloremius#5056 or email me at josmo314@gmail.com
