@@ -1,15 +1,14 @@
 ### Hey, I'm Josiah, a 14 year old Machine Learning enthusiast! 👋
 
-➵ I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) 
+📖 I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) 
 
-➵ I'm taking a deep dive into the world of Linear Algebra and Multivariable calculus - it's been a wonderful odyssey so far!
-
-
-➵ If you want to contact me, message me on Discord @Necloremius#5056
+👀 I'm exploring the vast and breathtaking world of Linear Algebra and Multivariable calculus - it's been a wonderful odyssey so far!
 
 
+📫 If you want to contact me, message me on Discord @Necloremius#5056 or email me at josmo314@gmail.com
 
-➵ I'm beginning to write Medium articles, so go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
+
+🖋️ I'm beginning to write Medium articles, so go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
 
 
 
