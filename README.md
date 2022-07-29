@@ -5,7 +5,7 @@
 ✨ I'm exploring the complex, endless expanse of Linear Algebra and Multivariable calculus
 
 
-📫 If you want to contact me, message me on Discord @Necloremius#5056 or email me at josmo314@gmail.com
+📫 If you want to contact me, message me on Discord @Necloremius#5056, email me at josmo314@gmail.com, or follow me on IG @josiah.mo07
 
 
 🖋️ I'm beginning to write Medium articles, so go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
