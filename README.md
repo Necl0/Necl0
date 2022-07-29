@@ -6,7 +6,7 @@
 
 
 
-➵ I'm beginning to write Medium articles, so go check those out @https://neclo.medium.com/, and feel free to subscribe to me!
+➵ I'm beginning to write Medium articles, so go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
 
 
 
