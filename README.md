@@ -1,4 +1,4 @@
-### Hey, I'm Necloremius (he/him), a 14 year old software developer! 👋
+### Hey, I'm Josiah, a 14 year old Machine Learning enthusiast! 👋
 
 ➵ I'm quite proficient at Python and am exploring the vast world of ML/AI right now :) 
 
