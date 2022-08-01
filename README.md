@@ -8,7 +8,7 @@
 📫 If you want to contact me, message me on Discord @Necloremius#5056, email me at josmo314@gmail.com, or follow me on IG @josiah.mo07
 
 
-🖋️ I'm beginning to write Medium articles, so go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
+🖋️ I also love to write articles - go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
 
 
 
