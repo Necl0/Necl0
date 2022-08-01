@@ -1,4 +1,4 @@
-### Hey, I'm Josiah, a 14 year old Machine Learning enthusiast! 👋
+### 👋 Hey, I'm Josiah, a 14 year old Machine Learning enthusiast! 
 
 📖 I'm quite proficient at Python and am learning about the vast world of ML/AI  :) 
 
