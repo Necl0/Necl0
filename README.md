@@ -8,7 +8,7 @@
 📫 If you want to contact me, message me on [Discord](https://discord.com/users/675147870428725268), email me at josmo314@gmail.com, or follow me on [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
 
 
-🖋️ I also love to write articles - go check those out @https://neclo.hashnode.dev/, and feel free to subscribe to me!
+🖋️ I also love to write Hashnode articles - go check those out [Neclo](https://neclo.hashnode.dev/)
 
 
 
