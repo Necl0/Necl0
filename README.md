@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=14+year+old;ML%2FAI+aficionado;Budding+mathematician;Cellist;Bubble+Tea+Connoisseur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=14+year+old;ML%2FAI+aficionado;Budding+Mathematician;Cellist;Bubble+Tea+Connoisseur)](https://git.io/typing-svg)
 
 ### 👋 Hey, I'm Josiah
 
