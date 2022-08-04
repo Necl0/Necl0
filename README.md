@@ -8,6 +8,8 @@
 🖋️ I also love to write Hashnode articles - go check those out [here](https://neclo.hashnode.dev/)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Necloremius)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
