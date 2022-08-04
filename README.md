@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=14+year+old+ML%2FAI+disciple;Bubble+Tea+Connoisseur;Cellist+;Mathematician+(Calculus+%26+Linear+Algebra))](https://git.io/typing-svg)
+
 ### 👋 Hey, I'm Josiah, a 14 year old Machine Learning enthusiast! 
 
 📖 I'm quite proficient at Python and am learning about the vast world of ML/AI  :) 
