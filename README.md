@@ -7,7 +7,7 @@ Currently learning: PyTorch and using CNNs to train AIs to make sense of spatial
 📫 If you want to contact me, message me on [Discord](https://discord.com/users/675147870428725268), email me at josmowork@gmail.com, or follow me on [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
 
 
-🖋️ I also love to write Hashnode articles - go check those out [here](https://neclo.hashnode.dev/)
+🖋️ I also love to write Hashnode articles once in a blue moon - go check those out [here](https://neclo.hashnode.dev/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Necl0)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +16,7 @@ Currently learning: PyTorch and using CNNs to train AIs to make sense of spatial
 
 
 
-By the way, meet mkdir, my contribution snake. I feed him daily, usually
+By the way, meet mkdir, my contribution snake. I feed him daily
 ![snake gif](https://github.com/Necloremius/Necloremius/blob/output/github-contribution-grid-snake.gif)
 
 
