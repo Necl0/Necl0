@@ -22,6 +22,4 @@ By the way, meet mkdir, my contribution snake. I feed him daily
 
 
 
-<!--
-**Amdirpherian/Amdirpherian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
