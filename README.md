@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F5F5F5&lines=14+year+old;ML%2FAI+Enthusiast;Budding+Mathematician;Cellist;Bubble+Tea+Connoisseur)](https://git.io/typing-svg)
 
-Currently learning: PyTorch and using CNNs to train AIs to make sense of spatial and temporal dependencies
+Currently learning: PyTorch, streamlit, numpy, and autograd
 
 📫 If you want to contact me, message me on [Discord](https://discord.com/users/675147870428725268), email me at josmowork@gmail.com, or follow me on [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
 
