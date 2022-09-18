@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Josiah
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F5F5F5&lines=14+year+old;ML%2FAI+Enthusiast;Budding+Mathematician;Cellist;Avid+Nord+Theme+User)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F5F5F5&lines=14+year+old;ML%2FAI+Enthusiast;Budding+Mathematician;Cellist;Avid+Nord+Theme+user)](https://git.io/typing-svg)
 
 Currently learning: PyTorch, NumPy, Pydantic, and autograd
 
