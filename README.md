@@ -4,7 +4,7 @@
 
 Currently learning: PyTorch, NumPy, Pydantic, and autograd
 
-📫 If you want to contact me, message me on [Discord](https://discord.com/users/675147870428725268), email me at josmowork@gmail.com, or follow me on [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
+📫 If you want to contact me, connect with me on [LinkedIn](https://linkedin.com/in/josiah-mo), message me on [Discord](https://discord.com/users/675147870428725268), email me at josmowork@gmail.com, or follow me on [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
 
 
 🖋️ I also love to write Hashnode articles once in a blue moon - go check those out [here](https://neclo.hashnode.dev/)
