@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F5F5F5&lines=14+year+old;ML%2FAI+Enthusiast;Budding+Mathematician;Cellist;Avid+Nightfall+Theme+user)](https://git.io/typing-svg)
 
 
-
 Currently learning: PyTorch, PyDantic
 
 📍 Maryland, 🕑 EST
@@ -24,6 +23,7 @@ By the way, meet mkdir, my contribution snake. I feed him daily
 ![snake gif](https://github.com/Necloremius/Necloremius/blob/output/github-contribution-grid-snake.gif)
 
 
+P.S. I like to give my projects one word names with meaning - feel free to ask me about any of them!
 
 
 
