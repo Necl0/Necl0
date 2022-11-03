@@ -23,7 +23,5 @@ By the way, meet mkdir, my contribution snake. I feed him daily
 ![snake gif](https://github.com/Necloremius/Necloremius/blob/output/github-contribution-grid-snake.gif)
 
 
-P.S. I like to give my projects one word names - feel free to ask me about any of them!
-
 
 
