@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F5F5F5&lines=14+year+old;ML%2FAI+Enthusiast;Budding+Mathematician;Cellist;Tennis+Player)](https://git.io/typing-svg)
 
 
-Currently learning: scikit-learn, Flask, TailwindCSS
+Currently learning: scikit-learn, Flask, TailwindCSS, Docker
 
 📍 Maryland, 🕑 EST
 
