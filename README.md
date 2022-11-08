@@ -11,7 +11,6 @@ Currently learning: Astro.js, Docker
 
 [Portfolio](https://portfolio-amber-five-73.vercel.app)
 
-📍 Maryland, 🕑 EST
 
 📫 If you want to contact me, connect with me on [LinkedIn](https://linkedin.com/in/josiah-mo), message me on [Discord](https://discord.com/users/675147870428725268), email me at josmowork@gmail.com, or follow me on [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
 
