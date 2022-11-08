@@ -13,7 +13,9 @@ Currently learning: Astro.js, Docker
 
 
  [LinkedIn](https://linkedin.com/in/josiah-mo)
+ 
  [Discord](https://discord.com/users/675147870428725268)
+ 
  [Instagram](https://www.instagram.com/josiah.mo07/?hl=en)
 
 
