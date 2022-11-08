@@ -11,6 +11,7 @@ Currently learning: Astro.js, Docker
 
 [Portfolio](https://portfolio-amber-five-73.vercel.app)
 
+## Contact Me
 
  [LinkedIn](https://linkedin.com/in/josiah-mo)
  
