@@ -1,9 +1,13 @@
 ### 👋 Hey, I'm Josiah
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F5F5F5&lines=14+year+old;ML%2FAI+Enthusiast;Budding+Mathematician;Cellist;Tennis+Player)](https://git.io/typing-svg)
+Main tools:
+- Python (Scikit-learn, PyTorch, NumPy, Pandas)
+- HTML/CSS (TailwindCSS, Bootstrap)
+- JS (Astro.js)
+- CI/CD (Git)
 
 
-Currently learning: Astro.js
+Currently learning: Astro.js, Docker
 
 [Portfolio](https://portfolio-amber-five-73.vercel.app)
 
