@@ -5,7 +5,7 @@
 
 Currently learning: Astro.js
 
-Portfolio: https://portfolio-amber-five-73.vercel.app
+[Portfolio](https://portfolio-amber-five-73.vercel.app)
 
 📍 Maryland, 🕑 EST
 
