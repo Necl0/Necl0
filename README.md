@@ -7,7 +7,7 @@ Main tools:
 - CI/CD (GitHub Actions)
 
 
-Currently learning: Astro.js, Docker
+Currently learning: Astro
 
 [Portfolio](https://portfolio-amber-five-73.vercel.app)
 
