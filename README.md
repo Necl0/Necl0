@@ -2,9 +2,9 @@
 
 Main tools:
 - Python (Scikit-learn, PyTorch, NumPy, Pandas)
-- HTML/CSS (TailwindCSS, Bootstrap)
-- JS (Astro.js)
-- CI/CD (Git)
+- HTML/CSS (Tailwind, Bootstrap)
+- JS (Astro)
+- CI/CD (GitHub Actions)
 
 
 Currently learning: Astro.js, Docker
