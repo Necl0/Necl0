@@ -7,7 +7,6 @@ Main tools:
 - CI/CD (GitHub Actions)
 
 
-Currently learning: Astro
 
 [Portfolio](https://neclo.vercel.app)
 
