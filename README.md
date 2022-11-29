@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Josiah
 
-Main tools:
+Tools in my box:
 - Python (Scikit-learn, PyTorch, NumPy, Pandas)
 - HTML/CSS (Tailwind, Bootstrap)
 - JS (Astro)
