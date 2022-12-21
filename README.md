@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Josiah
 
 Tools in my box:
-- Python (Scikit-learn, PyTorch, NumPy, Pandas, Typer, Rich)
+- Python (Scikit-learn, PyTorch, NumPy, Pandas, discord.py, Typer, Rich)
 - HTML/CSS (Tailwind, Bootstrap)
 - JS (Astro)
 - CI/CD (GitHub Actions)
